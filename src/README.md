@@ -1,2 +1,2 @@
-##Hola
+#Hola
 - Bienvenidos a la cripta!
