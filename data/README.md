@@ -2,4 +2,6 @@
 - you can use CSV
 - firebase
 - mails
+- videos
+- images
 
